@@ -38,6 +38,10 @@ android {
         viewBinding true
         buildConfig true
     }
+
+    base {
+        archivesName = "Focus Guard"
+    }
 }
 
 dependencies {

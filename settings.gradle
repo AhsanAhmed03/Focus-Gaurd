@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MindGate"
+rootProject.name = "FocusGuard"
 include ':app'
