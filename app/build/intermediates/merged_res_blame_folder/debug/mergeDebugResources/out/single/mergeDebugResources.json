@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_rounded_list.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_rounded_list.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_app_select.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_app_select.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/xml_file_paths.xml.flat",
+        "source": "com.mindgate.app-main-55:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_check_circle.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_item_app.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/item_app.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_shield.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_shield.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_overlay_scrim.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_overlay_scrim.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_close.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_preview.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_preview.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable-night_bg_rounded_list.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable-night/bg_rounded_list.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_activity_main.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_splash_gradient.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_splash_gradient.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_check.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_activity_app_selection.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/activity_app_selection.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_warning.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_activity_permission_setup.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/activity_permission_setup.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_image_placeholder.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_image_placeholder.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_overlay_gradient.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_overlay_gradient.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_item_redirect_app.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/item_redirect_app.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_timer_circle.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_timer_circle.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_lock.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_image.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_search.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable-night_bg_timer_circle.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable-night/bg_timer_circle.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_activity_customize.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/activity_customize.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_notification.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_activity_overlay.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/activity_overlay.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_activity_redirect_app_picker.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/activity_redirect_app_picker.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_dot.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_dot.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_icon_circle.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_icon_circle.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_save.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_save.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_palette.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_palette.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/layout_activity_splash.xml.flat",
+        "source": "com.mindgate.app-main-55:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_delete.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_open_external.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_open_external.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_badge.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_mindful.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_mindful.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.mindgate.app-main-55:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_apps.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_apps.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_progress_bar_drawable.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/progress_bar_drawable.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_bg_splash_glow.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/bg_splash_glow.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable_ic_redirect.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable/ic_redirect.xml"
+    },
+    {
+        "merged": "com.mindgate.app-debug-53:/drawable-night_bg_image_placeholder.xml.flat",
+        "source": "com.mindgate.app-main-55:/drawable-night/bg_image_placeholder.xml"
+    }
+]

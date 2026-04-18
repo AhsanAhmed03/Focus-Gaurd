@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/activity_customize.xml",
+        "source": "com.mindgate.app-main-55:/layout/activity_customize.xml"
+    },
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/activity_overlay.xml",
+        "source": "com.mindgate.app-main-55:/layout/activity_overlay.xml"
+    },
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/activity_splash.xml",
+        "source": "com.mindgate.app-main-55:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.mindgate.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/activity_redirect_app_picker.xml",
+        "source": "com.mindgate.app-main-55:/layout/activity_redirect_app_picker.xml"
+    },
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/activity_permission_setup.xml",
+        "source": "com.mindgate.app-main-55:/layout/activity_permission_setup.xml"
+    },
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/item_app.xml",
+        "source": "com.mindgate.app-main-55:/layout/item_app.xml"
+    },
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/item_redirect_app.xml",
+        "source": "com.mindgate.app-main-55:/layout/item_redirect_app.xml"
+    },
+    {
+        "merged": "com.mindgate.app-mergeDebugResources-52:/layout/activity_app_selection.xml",
+        "source": "com.mindgate.app-main-55:/layout/activity_app_selection.xml"
+    }
+]

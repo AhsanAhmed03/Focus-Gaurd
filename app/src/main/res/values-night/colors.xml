@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay card - dark toned blue for dark mode -->
+    <color name="overlay_card_bg">#1E2A3A</color>
+
+    <!-- Semantic color overrides for dark mode -->
+    <color name="color_success">#66BB6A</color>
+    <color name="color_success_container">#1B5E20</color>
+    <color name="color_on_success_container">#C8E6C9</color>
+    <color name="color_warning">#FFA726</color>
+    <color name="color_on_surface_variant">#CAC4D0</color>
+
+    <!-- Icon category colors for dark mode -->
+    <color name="color_lock">#BCC2FF</color>
+    <color name="color_lock_bg">#353883</color>
+    <color name="color_apps">#CFBCFF</color>
+    <color name="color_apps_bg">#4F378B</color>
+    <color name="color_palette">#F48FB1</color>
+    <color name="color_palette_bg">#880E4F</color>
+    <color name="color_select">#80CBC4</color>
+    <color name="color_select_bg">#00413A</color>
+    <color name="color_shield">#FFCC80</color>
+    <color name="color_shield_bg">#E65100</color>
+</resources>

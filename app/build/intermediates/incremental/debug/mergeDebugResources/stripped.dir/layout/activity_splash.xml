@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_splash_gradient">
+
+    <!-- Particle dots for visual depth -->
+    <View android:layout_width="8dp" android:layout_height="8dp"
+        android:layout_gravity="top|start" android:layout_marginStart="60dp" android:layout_marginTop="140dp"
+        android:background="@drawable/bg_dot" android:alpha="0.3" />
+    <View android:layout_width="5dp" android:layout_height="5dp"
+        android:layout_gravity="top|end" android:layout_marginEnd="80dp" android:layout_marginTop="200dp"
+        android:background="@drawable/bg_dot" android:alpha="0.2" />
+    <View android:layout_width="10dp" android:layout_height="10dp"
+        android:layout_gravity="bottom|start" android:layout_marginStart="100dp" android:layout_marginBottom="180dp"
+        android:background="@drawable/bg_dot" android:alpha="0.25" />
+    <View android:layout_width="6dp" android:layout_height="6dp"
+        android:layout_gravity="bottom|end" android:layout_marginEnd="60dp" android:layout_marginBottom="240dp"
+        android:background="@drawable/bg_dot" android:alpha="0.2" />
+
+    <!-- Center content -->
+    <LinearLayout
+        android:id="@+id/splashContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:alpha="0">
+
+        <!-- Icon glow ring -->
+        <FrameLayout
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginBottom="32dp">
+
+            <View
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:background="@drawable/bg_splash_glow" />
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_mindful"
+                android:padding="4dp"
+                app:tint="#FFFFFF"
+                xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+        </FrameLayout>
+
+        <!-- App name -->
+        <TextView
+            android:id="@+id/tvSplashTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FocusGuard"
+            android:textSize="42sp"
+            android:textColor="#FFFFFF"
+            android:fontFamily="sans-serif-medium"
+            android:letterSpacing="0.05"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Tagline -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Digital Wellbeing Guardian"
+            android:textSize="15sp"
+            android:textColor="#AABCD4"
+            android:fontFamily="sans-serif"
+            android:letterSpacing="0.03" />
+
+    </LinearLayout>
+
+    <!-- Progress bar at bottom -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        android:paddingBottom="60dp"
+        android:paddingHorizontal="48dp">
+
+        <TextView
+            android:id="@+id/tvSplashHint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Preparing your mindful experience..."
+            android:textSize="12sp"
+            android:textColor="#66AABCD4"
+            android:gravity="center"
+            android:layout_marginBottom="12dp"
+            android:alpha="0" />
+
+        <ProgressBar
+            android:id="@+id/splashProgress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:progressDrawable="@drawable/progress_bar_drawable"
+            android:max="100"
+            android:progress="0"
+            android:alpha="0" />
+
+    </LinearLayout>
+
+</FrameLayout>
